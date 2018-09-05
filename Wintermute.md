@@ -1,6 +1,6 @@
 # Wintermute
 
-Another OSCP type lab involving **two** VM's - **Straylight** & **Neuromancer**. Great to practice pivoting and post-exploitation on, which I've found many OSCP prep labs lack.
+Based on the best-known Cyberpunk novel Neuromancer, this OSCP-type lab involves **two** VM's - **Straylight** & **Neuromancer**. Great to practice pivoting and post-exploitation on, which I've found many OSCP prep labs lack.
 
 **Google Drive**: https://drive.google.com/open?id=1bHgdx0iI24jv7MDzKcrIPtd9rVFaVokR 
 
@@ -17,6 +17,3 @@ Another OSCP type lab involving **two** VM's - **Straylight** & **Neuromancer**.
 
 ![](https://rtcrowley.github.io/winter1_gif.gif)
 
-___
-
-![](https://rtcrowley.github.io/winter_gif.gif)
